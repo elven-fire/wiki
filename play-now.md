@@ -12,7 +12,7 @@ To start a game of Elven Fire, there are a few common materials you will need to
 The Manual:
 * from [CreateSpace](https://www.createspace.com/3666809)
 * from [Amazon.com](http://www.amazon.com/Elven-Fire-Living-Vida-Medieval/dp/146620074X/ref=sr_1_1?ie=UTF8&qid=1319926359&sr=8-1)
-* [Online](ElvenFire3/Home)
+* [Online](manual-3-0/Home)
 
 Each player will need:
 * A [character sheet](game-aids/character_sheets), filled out
