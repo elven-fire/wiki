@@ -1,2 +1,2 @@
 # wiki.js
-Backup and versioning for the wiki.js server
+Backup and versioning for the wiki server
