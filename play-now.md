@@ -21,7 +21,7 @@ Each player will need:
 * [Dice](game-aids/dice)
 
 The Game Master (GM) will need:
-* An adventure (get a book full of them in [Elven Fire for the Beginner GM](https://www.amazon.com/Elven-Fire-Beginner-David-Jace/dp/1478170328), or try one of the adventures below)
+* An adventure (such as one of the adventures below)
 * [Room Maps](game-aids/room-sheets) or laminated hex paper and whiteboard markers
 * [Markers](game-aids/markers) to represent creatures and items within the labyrinth
 
@@ -36,11 +36,15 @@ Note that before the game begins, the party should agree on which milieu they wi
 
 These are good adventures with which to start, created specifically for Elven Fire, and require a GameMaster to play.
 
+## Books
+
+* [Elven Fire for the Beginner GM](https://www.amazon.com/Elven-Fire-Beginner-David-Jace/dp/1478170328), filled with several campaigns tailored specifically for Elven Fire, complemented with detailed guides for those just getting started
+
 ## Mysteries
 
 Not all is as it seems in these adventures - there's more to the plot than hack and slash!
 
-* [DarkReading](adventures/dark-reading) (August 2013), in which the adventurers seek a valued book lost when a Lady's friend is killed in a remote labyrinth
+* [Dark Reading](adventures/dark-reading) (August 2013), in which the adventurers seek a valued book lost when a Lady's friend is killed in a remote labyrinth
 * [Counter Strike](adventures/counter-strike) (February 2014), in which the adventurers assist the intended victim of a hit to bring justice to the perpetrator
 * [A Light in the Window](adventures/a-light-in-the-window) (March 2014), in which the adventurers investigate a strange recurring light in a decaying, abandoned castle above a small island village
 
